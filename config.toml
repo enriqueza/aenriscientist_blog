@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Alejandra's Website"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -16,11 +16,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Art"
+    url = "https://instagram.com/marinebioartist"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/aenriscientist"
 
 [params]
     description = "A website built through Hugo and blogdown."
